@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "nest",
+      "username": "postgres",
+      "database": "taskmanagement",
+      "password": ""
+    }
+  ]
+}
